@@ -1,0 +1,65 @@
+/*Backgrounds*/
+#background{
+position:relative;
+z-index: -10;
+height: 300px;
+width: 700px;
+left: 25%
+}
+html{
+    background-image: url(./Wall_street.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*Body*/
+body{
+    color: white;
+}
+/*heading*/
+h1{
+    font-size: 60px;
+    background-color: coral;
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h2{
+    font-size: 65px;
+    margin-bottom: 0%;
+}
+
+/*image*/
+
+
+/*form*/
+form{
+    display: inline-block;
+    
+}
+
+.details{
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+    padding-left: 510px;
+}
+
+/*footers*/
+footer{
+width: 100%;
+text-align: center;
+font-size: 70px;
+}
+
+footer > img{
+    float: left;
+    height: 100px;
+}
+    
+#intro{
+    text-align: center;
+    width: 100%;
+}
